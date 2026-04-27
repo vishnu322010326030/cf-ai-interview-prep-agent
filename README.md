@@ -16,7 +16,7 @@ https://cf-ai-interview-prep-agent.pujari1.workers.dev/
 - Uses Cloudflare Workers AI LLM
 - Streaming responses using Server-Sent Events
 - User input through a chat interface
-- Maintains chat history during the active session
+- Maintains chat history during the active session as basic session memory/state
 - Tracks weak areas from the current conversation context
 - Gives structured feedback and follow-up questions
 - Built with TypeScript and Cloudflare Workers
